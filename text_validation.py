@@ -160,17 +160,17 @@ for group_name, df_group in tqdm(gb_df):
             new_query_dict[key] = query_dict[group_name[1]]
 
 create_query_xml(new_query_dict,
-                 f'/lv_local/home/niv.b/E5_rankings/input_files/queries_{cp}.xml')
+                 f'/lv_local/home/user/E5_rankings/input_files/queries_{cp}.xml')
 
 result = pd.concat(comp_dict.values(), axis=0)
 
-with open(f"/lv_local/home/niv.b/E5_rankings/input_files/working_set_{cp}.trectext", "w") as f:
+with open(f"/lv_local/home/user/E5_rankings/input_files/working_set_{cp}.trectext", "w") as f:
     for idx, row in result.sort_values(["Key", "creator"], ascending=(True, True)).iterrows():
         f.write(f"{row.Key} Q0 {row.docno} 0 1.0 summarizarion_task\n")
         working_set_docnos += 1
 
 bot_followup_docnos = 0
-with open(f"/lv_local/home/niv.b/E5_rankings/input_files/bot_followup_{cp}.trectext", "w") as f:
+with open(f"/lv_local/home/user/E5_rankings/input_files/bot_followup_{cp}.trectext", "w") as f:
     f.write(f"<DATA>\n")
     for idx, row in df.sort_values(['query_id', 'docno'], ascending=[True, False]).iterrows():
         f.write(f"<DOC>\n")
