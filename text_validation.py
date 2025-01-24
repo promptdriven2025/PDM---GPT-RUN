@@ -10,7 +10,7 @@ import re
 from nltk.tokenize import sent_tokenize, word_tokenize
 
 
-if 'asrc' in cp:
+if 'comp' in cp:
     bfu_df = pd.read_csv(f"bot_followup_{cp}.csv").rename({"username": "bot_name"}, axis=1)
     bfu_df = bfu_df["bot_name"].drop_duplicates()
     bot_cover_df = pd.DataFrame(data=bfu_df, index=bfu_df.index, columns=bot_cover_df.columns).iloc[0].T
