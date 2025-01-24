@@ -1,0 +1,193 @@
+bot_name,doc_no,unique_q_num,docs_per_q,pairs_per_q,lists_per_q,strands_per_q,include_candidate,include_query,doc_type,history_length
+DYN_1100R2,3,1,,,,1.0,False,False,random,2.0
+DYN_1100R3,4,1,,,,1.0,False,False,random,3.0
+DYN_1100T2,3,1,,,,1.0,False,False,tops plus,2.0
+DYN_1100T3,4,1,,,,1.0,False,False,tops plus,3.0
+DYN_1101R2,3,1,,,,1.0,False,True,random,2.0
+DYN_1101R3,4,1,,,,1.0,False,True,random,3.0
+DYN_1101T2,3,1,,,,1.0,False,True,tops plus,2.0
+DYN_1101T3,4,1,,,,1.0,False,True,tops plus,3.0
+DYN_1110R2,3,1,,,,1.0,True,False,random,2.0
+DYN_1110R3,4,1,,,,1.0,True,False,random,3.0
+DYN_1110T2,3,1,,,,1.0,True,False,tops plus,2.0
+DYN_1110T3,4,1,,,,1.0,True,False,tops plus,3.0
+DYN_1111R2,3,1,,,,1.0,True,True,random,2.0
+DYN_1111R3,4,1,,,,1.0,True,True,random,3.0
+DYN_1111T2,3,1,,,,1.0,True,True,tops plus,2.0
+DYN_1111T3,4,1,,,,1.0,True,True,tops plus,3.0
+DYN_1200R2,5,1,,,,2.0,False,False,random,2.0
+DYN_1200R3,7,1,,,,2.0,False,False,random,3.0
+DYN_1200T2,5,1,,,,2.0,False,False,tops plus,2.0
+DYN_1200T3,7,1,,,,2.0,False,False,tops plus,3.0
+DYN_1201R2,5,1,,,,2.0,False,True,random,2.0
+DYN_1201R3,7,1,,,,2.0,False,True,random,3.0
+DYN_1201T2,5,1,,,,2.0,False,True,tops plus,2.0
+DYN_1201T3,7,1,,,,2.0,False,True,tops plus,3.0
+DYN_1210R2,5,1,,,,2.0,True,False,random,2.0
+DYN_1210R3,7,1,,,,2.0,True,False,random,3.0
+DYN_1210T2,5,1,,,,2.0,True,False,tops plus,2.0
+DYN_1210T3,7,1,,,,2.0,True,False,tops plus,3.0
+DYN_1211R2,5,1,,,,2.0,True,True,random,2.0
+DYN_1211R3,7,1,,,,2.0,True,True,random,3.0
+DYN_1211T2,5,1,,,,2.0,True,True,tops plus,2.0
+DYN_1211T3,7,1,,,,2.0,True,True,tops plus,3.0
+DYN_1300R2,7,1,,,,3.0,False,False,random,2.0
+DYN_1300R3,10,1,,,,3.0,False,False,random,3.0
+DYN_1300T2,7,1,,,,3.0,False,False,tops plus,2.0
+DYN_1300T3,10,1,,,,3.0,False,False,tops plus,3.0
+DYN_1301R2,7,1,,,,3.0,False,True,random,2.0
+DYN_1301R3,10,1,,,,3.0,False,True,random,3.0
+DYN_1301T2,7,1,,,,3.0,False,True,tops plus,2.0
+DYN_1301T3,10,1,,,,3.0,False,True,tops plus,3.0
+DYN_1310R2,7,1,,,,3.0,True,False,random,2.0
+DYN_1310R3,10,1,,,,3.0,True,False,random,3.0
+DYN_1310T2,7,1,,,,3.0,True,False,tops plus,2.0
+DYN_1310T3,10,1,,,,3.0,True,False,tops plus,3.0
+DYN_1311R2,7,1,,,,3.0,True,True,random,2.0
+DYN_1311R3,10,1,,,,3.0,True,True,random,3.0
+DYN_1311T2,7,1,,,,3.0,True,True,tops plus,2.0
+DYN_1311T3,10,1,,,,3.0,True,True,tops plus,3.0
+DYN_2100R2,5,2,,,,1.0,False,False,random,2.0
+DYN_2100R3,7,2,,,,1.0,False,False,random,3.0
+DYN_2100T2,5,2,,,,1.0,False,False,tops plus,2.0
+DYN_2100T3,7,2,,,,1.0,False,False,tops plus,3.0
+DYN_2101R2,5,2,,,,1.0,False,True,random,2.0
+DYN_2101R3,7,2,,,,1.0,False,True,random,3.0
+DYN_2101T2,5,2,,,,1.0,False,True,tops plus,2.0
+DYN_2101T3,7,2,,,,1.0,False,True,tops plus,3.0
+DYN_2110R2,5,2,,,,1.0,True,False,random,2.0
+DYN_2110R3,7,2,,,,1.0,True,False,random,3.0
+DYN_2110T2,5,2,,,,1.0,True,False,tops plus,2.0
+DYN_2110T3,7,2,,,,1.0,True,False,tops plus,3.0
+DYN_2111R2,5,2,,,,1.0,True,True,random,2.0
+DYN_2111R3,7,2,,,,1.0,True,True,random,3.0
+DYN_2111T2,5,2,,,,1.0,True,True,tops plus,2.0
+DYN_2111T3,7,2,,,,1.0,True,True,tops plus,3.0
+DYN_2200R2,9,2,,,,2.0,False,False,random,2.0
+DYN_2200R3,13,2,,,,2.0,False,False,random,3.0
+DYN_2200T2,9,2,,,,2.0,False,False,tops plus,2.0
+DYN_2200T3,13,2,,,,2.0,False,False,tops plus,3.0
+DYN_2201R2,9,2,,,,2.0,False,True,random,2.0
+DYN_2201R3,13,2,,,,2.0,False,True,random,3.0
+DYN_2201T2,9,2,,,,2.0,False,True,tops plus,2.0
+DYN_2201T3,13,2,,,,2.0,False,True,tops plus,3.0
+DYN_2210R2,9,2,,,,2.0,True,False,random,2.0
+DYN_2210R3,13,2,,,,2.0,True,False,random,3.0
+DYN_2210T2,9,2,,,,2.0,True,False,tops plus,2.0
+DYN_2210T3,13,2,,,,2.0,True,False,tops plus,3.0
+DYN_2211R2,9,2,,,,2.0,True,True,random,2.0
+DYN_2211R3,13,2,,,,2.0,True,True,random,3.0
+DYN_2211T2,9,2,,,,2.0,True,True,tops plus,2.0
+DYN_2211T3,13,2,,,,2.0,True,True,tops plus,3.0
+DYN_2300R2,13,2,,,,3.0,False,False,random,2.0
+DYN_2300R3,19,2,,,,3.0,False,False,random,3.0
+DYN_2300T2,13,2,,,,3.0,False,False,tops plus,2.0
+DYN_2300T3,19,2,,,,3.0,False,False,tops plus,3.0
+DYN_2301R2,13,2,,,,3.0,False,True,random,2.0
+DYN_2301R3,19,2,,,,3.0,False,True,random,3.0
+DYN_2301T2,13,2,,,,3.0,False,True,tops plus,2.0
+DYN_2301T3,19,2,,,,3.0,False,True,tops plus,3.0
+DYN_2310R2,13,2,,,,3.0,True,False,random,2.0
+DYN_2310R3,19,2,,,,3.0,True,False,random,3.0
+DYN_2310T2,13,2,,,,3.0,True,False,tops plus,2.0
+DYN_2310T3,19,2,,,,3.0,True,False,tops plus,3.0
+DYN_2311R2,13,2,,,,3.0,True,True,random,2.0
+DYN_2311R3,19,2,,,,3.0,True,True,random,3.0
+DYN_2311T2,13,2,,,,3.0,True,True,tops plus,2.0
+DYN_2311T3,19,2,,,,3.0,True,True,tops plus,3.0
+LIW_1100,6,1,,,1.0,,False,False,,
+LIW_1101,6,1,,,1.0,,False,True,,
+LIW_1110,6,1,,,1.0,,True,False,,
+LIW_1111,6,1,,,1.0,,True,True,,
+LIW_1200,11,1,,,2.0,,False,False,,
+LIW_1201,11,1,,,2.0,,False,True,,
+LIW_1210,11,1,,,2.0,,True,False,,
+LIW_1211,11,1,,,2.0,,True,True,,
+LIW_1300,16,1,,,3.0,,False,False,,
+LIW_1301,16,1,,,3.0,,False,True,,
+LIW_1310,16,1,,,3.0,,True,False,,
+LIW_1311,16,1,,,3.0,,True,True,,
+LIW_2100,11,2,,,1.0,,False,False,,
+LIW_2101,11,2,,,1.0,,False,True,,
+LIW_2110,11,2,,,1.0,,True,False,,
+LIW_2111,11,2,,,1.0,,True,True,,
+LIW_2200,21,2,,,2.0,,False,False,,
+LIW_2201,21,2,,,2.0,,False,True,,
+LIW_2210,21,2,,,2.0,,True,False,,
+LIW_2211,21,2,,,2.0,,True,True,,
+LIW_2300,31,2,,,3.0,,False,False,,
+LIW_2301,31,2,,,3.0,,False,True,,
+LIW_2310,31,2,,,3.0,,True,False,,
+LIW_2311,31,2,,,3.0,,True,True,,
+PAW_1100R,3,1,,1.0,,,False,False,random,
+PAW_1100T,3,1,,1.0,,,False,False,tops plus,
+PAW_1101R,3,1,,1.0,,,False,True,random,
+PAW_1101T,3,1,,1.0,,,False,True,tops plus,
+PAW_1110R,3,1,,1.0,,,True,False,random,
+PAW_1110T,3,1,,1.0,,,True,False,tops plus,
+PAW_1111R,3,1,,1.0,,,True,True,random,
+PAW_1111T,3,1,,1.0,,,True,True,tops plus,
+PAW_1200R,5,1,,2.0,,,False,False,random,
+PAW_1200T,5,1,,2.0,,,False,False,tops plus,
+PAW_1201R,5,1,,2.0,,,False,True,random,
+PAW_1201T,5,1,,2.0,,,False,True,tops plus,
+PAW_1210R,5,1,,2.0,,,True,False,random,
+PAW_1210T,5,1,,2.0,,,True,False,tops plus,
+PAW_1211R,5,1,,2.0,,,True,True,random,
+PAW_1211T,5,1,,2.0,,,True,True,tops plus,
+PAW_1300R,7,1,,3.0,,,False,False,random,
+PAW_1300T,7,1,,3.0,,,False,False,tops plus,
+PAW_1301R,7,1,,3.0,,,False,True,random,
+PAW_1301T,7,1,,3.0,,,False,True,tops plus,
+PAW_1310R,7,1,,3.0,,,True,False,random,
+PAW_1310T,7,1,,3.0,,,True,False,tops plus,
+PAW_1311R,7,1,,3.0,,,True,True,random,
+PAW_1311T,7,1,,3.0,,,True,True,tops plus,
+PAW_2100R,5,2,,1.0,,,False,False,random,
+PAW_2100T,5,2,,1.0,,,False,False,tops plus,
+PAW_2101R,5,2,,1.0,,,False,True,random,
+PAW_2101T,5,2,,1.0,,,False,True,tops plus,
+PAW_2110R,5,2,,1.0,,,True,False,random,
+PAW_2110T,5,2,,1.0,,,True,False,tops plus,
+PAW_2111R,5,2,,1.0,,,True,True,random,
+PAW_2111T,5,2,,1.0,,,True,True,tops plus,
+PAW_2200R,9,2,,2.0,,,False,False,random,
+PAW_2200T,9,2,,2.0,,,False,False,tops plus,
+PAW_2201R,9,2,,2.0,,,False,True,random,
+PAW_2201T,9,2,,2.0,,,False,True,tops plus,
+PAW_2210R,9,2,,2.0,,,True,False,random,
+PAW_2210T,9,2,,2.0,,,True,False,tops plus,
+PAW_2211R,9,2,,2.0,,,True,True,random,
+PAW_2211T,9,2,,2.0,,,True,True,tops plus,
+PAW_2300R,13,2,,3.0,,,False,False,random,
+PAW_2300T,13,2,,3.0,,,False,False,tops plus,
+PAW_2301R,13,2,,3.0,,,False,True,random,
+PAW_2301T,13,2,,3.0,,,False,True,tops plus,
+PAW_2310R,13,2,,3.0,,,True,False,random,
+PAW_2310T,13,2,,3.0,,,True,False,tops plus,
+PAW_2311R,13,2,,3.0,,,True,True,random,
+PAW_2311T,13,2,,3.0,,,True,True,tops plus,
+POW_1100,2,1,1.0,,,,False,False,,
+POW_1101,2,1,1.0,,,,False,True,,
+POW_1110,2,1,1.0,,,,True,False,,
+POW_1111,2,1,1.0,,,,True,True,,
+POW_1200,3,1,2.0,,,,False,False,,
+POW_1201,3,1,2.0,,,,False,True,,
+POW_1210,3,1,2.0,,,,True,False,,
+POW_1211,3,1,2.0,,,,True,True,,
+POW_1300,4,1,3.0,,,,False,False,,
+POW_1301,4,1,3.0,,,,False,True,,
+POW_1310,4,1,3.0,,,,True,False,,
+POW_1311,4,1,3.0,,,,True,True,,
+POW_2100,3,2,1.0,,,,False,False,,
+POW_2101,3,2,1.0,,,,False,True,,
+POW_2110,3,2,1.0,,,,True,False,,
+POW_2111,3,2,1.0,,,,True,True,,
+POW_2200,5,2,2.0,,,,False,False,,
+POW_2201,5,2,2.0,,,,False,True,,
+POW_2210,5,2,2.0,,,,True,False,,
+POW_2211,5,2,2.0,,,,True,True,,
+POW_2300,7,2,3.0,,,,False,False,,
+POW_2301,7,2,3.0,,,,False,True,,
+POW_2310,7,2,3.0,,,,True,False,,
+POW_2311,7,2,3.0,,,,True,True,,
