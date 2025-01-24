@@ -124,7 +124,7 @@ if __name__ == '__main__':
     if config.using_e5:
         data = pd.read_csv("t_data.csv")
     else: 
-        data = pd.read_csv(f"full_asrc24_B_archive_r{config.rel_round}.csv")
+        data = pd.read_csv(f"full_comp24_B_archive_r{config.rel_round}.csv")
     orig = pd.read_csv(f"bot_followup_{cp}.csv")
 
     bot_followup = orig[orig['text'].isna()]
